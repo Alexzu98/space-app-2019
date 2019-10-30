@@ -31,7 +31,7 @@ Note: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-env
 ## Milestones
 * make space junks move in different directions with satellite in the centre of the map
 - [ ] make space junks move in different directions
-- [ ] satellite in the centre of the map
+- [x] satellite in the centre of the map
 
 * improve on starship movement
 - [ ] make it accelerate/decelerate smoothly
@@ -42,9 +42,9 @@ Note: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-env
 - [ ] add a great background music for the game
 
 * update this document - README.md
-- [ ] add presentation file
-- [ ] add background intro and our story
-- [ ] add some nice photos & screenshots
+- [x] add presentation file
+- [x] add background intro and our story
+- [x] add some nice photos & screenshots
 
 # Reference
 * https://2019.spaceappschallenge.org/challenges/
