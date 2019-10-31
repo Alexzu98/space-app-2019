@@ -35,14 +35,14 @@ backgroundColor = (0, 0, 0)
 
 # Starship starship
 starshipSize = 50
-starshipPos = [width / 2 - starshipSize / 2, height / 2 - starshipSize * 1.5]
+starshipPos = [width / 2 - starshipSize / 2, height / 3]
 starshipImgFilePath = 'images/LogoMakr_0rPhIj.png' 
 starshipImg = pygame.image.load(starshipImgFilePath)
 starshipImg = pygame.transform.rotozoom(starshipImg, 0, 0.125)
 
 # Satellite
 satelliteSize = 50
-satellitePos = [width / 2 - satelliteSize / 2, height / 2 - satelliteSize / 2]
+satellitePos = [width / 2 - satelliteSize / 2, height * 2 / 3]
 satelliteImgFilePath = 'images/satellite.png' 
 satelliteImg = pygame.image.load(satelliteImgFilePath)
 satelliteImg = pygame.transform.rotozoom(satelliteImg, 0, 0.125)
