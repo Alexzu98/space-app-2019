@@ -35,7 +35,7 @@ backgroundColor = (0, 0, 0)
 
 # Starship starship
 starshipSize = 50
-starshipPos = [width / 3, height - 2 * starshipSize]
+starshipPos = [width / 2 - starshipSize / 2, height / 2 - starshipSize * 1.5]
 starshipImgFilePath = 'images/LogoMakr_0rPhIj.png' 
 starshipImg = pygame.image.load(starshipImgFilePath)
 starshipImg = pygame.transform.rotozoom(starshipImg, 0, 0.125)
